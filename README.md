@@ -1,5 +1,4 @@
 # 💫 About Me:
-Full Stack Developer
 I am a dedicated full-stack developer passionate aboutdelivering innovative and user-focused digital solutions. With a proven track record of transforming ideas into impactful online experiences.
 
 # 💻 Tech Stack:
